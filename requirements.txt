@@ -13,3 +13,4 @@ webdriver-manager
 shapely
 python-telegram-bot
 mastodon.py
+pandas
